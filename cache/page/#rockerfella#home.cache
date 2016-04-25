@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="generator" content="rockerfella v2.7.4" />
+<link rel="icon" type="image/x-icon" href="http://localhost/rockerfella/favicon.ico" />
+<link rel="sitemap" href="http://localhost/rockerfella/sitemap.xml" />
+<link rel="alternate" type="application/rss+xml" title="rockerfella Feed" href="http://localhost/rockerfella/feed/rss" />
+
+    <title>Home - rockerfella</title>
+    <meta name="description" content="homepage"/>
+    <link rel="canonical" href="http://localhost/rockerfella/home" />
+     
+    <link rel="stylesheet" id="twentysixteen-fonts-css" href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext" type="text/css" media="all" />
+    <link rel="stylesheet" id="genericons-css"  href="http://localhost/rockerfella/themes/twentysixteen/genericons/genericons.css" type="text/css" media="all" />
+    <link rel="stylesheet" id="twentysixteen-style-css"  href="http://localhost/rockerfella/themes/twentysixteen/css/style.css" type="text/css" media="all" />
+    <!--[if lt IE 10]>
+    <link rel="stylesheet" id="twentysixteen-ie-css"  href="http://localhost/rockerfella/themes/twentysixteen/css/ie.css" type="text/css" media="all" />
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" id="twentysixteen-ie8-css"  href="http://localhost/rockerfella/themes/twentysixteen/css/ie8.css" type="text/css" media="all" />
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" id="twentysixteen-ie7-css"  href="http://localhost/rockerfella/themes/twentysixteen/css/ie7.css" type="text/css" media="all" />
+    <![endif]-->
+</head>
+<body class="in-page home">
+    <div id="page" class="site">
+        <div class="site-inner">
+        
+            <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+            <header id="masthead" class="site-header" role="banner">
+                <div class="site-header-main">
+                    <div class="site-branding">
+                        <h1 class="site-title"><a href="http://localhost/rockerfella/" rel="home">rockerfella</a></h1>
+                        <p class="site-description">Just another rockerfella blog</p>
+                    </div><!-- .site-branding -->
+
+                    <button id="menu-toggle" class="menu-toggle">Menu</button>
+
+                    <div id="site-header-menu" class="site-header-menu">
+                        <nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu">
+                            <div class="menu-main-container">
+                                <ul class="nav primary-menu"><li class="item first"><a href="http://localhost/rockerfella/">Home</a></li><li class="item last active"><a href="http://localhost/rockerfella/home">Home</a></li></ul>                            </div>
+                        </nav><!-- .main-navigation -->
+                    </div><!-- .site-header-menu -->
+                    
+                </div><!-- .site-header-main -->
+            </header><!-- .site-header -->
+
+            <div id="content" class="site-content">
+
+                <div id="primary" class="content-area">
+                    <main id="main" class="site-main" role="main">
+                        <article class="page type-page hentry">
+
+    <header class="entry-header">
+                <h1 class="entry-title">Home</h1>    
+    </header><!-- .entry-header -->
+
+    <div class="entry-content">
+        <div class="content">
+            <div class="clearfix text-formatted field field--name-body">
+                <div class="content">
+                    <p>Yeah baby
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @techbillies
+ Watch 59
+  Star 546
+ Fork 129 idno/Known
+ Code  Issues 132  Pull requests 1  Wiki  Pulse  Graphs
+Social publishing for groups and individuals. https://withknown.com/
+ 4,405 commits
+ 6 branches
+ 25 releases
+ 42 contributors
+ PHP 91.8%   CSS 7.4%    Other 0.8%
+PHP CSS Other
+ New file Upload files Find file
+ HTTPS<br />
+https://github.com/idno/Known.git</p>
+
+<p>Download ZIP Branch: master New pull request
+Latest commit 639ee04  10 hours ago @benwerd benwerd Modernized AMP boilerplate
+ConsolePlugins  Deny from all htaccess  7 months ago
+Idno    Merge pull request #1391 from kylewm/event-queue    10 hours ago
+IdnoPlugins Merge pull request #1391 from kylewm/event-queue    10 hours ago
+Tests   truncate slug to max_chars before encoding  8 days ago
+Themes  Removing inline clear="all" 10 hours ago
+Uploads Adding a dummy Uploads file a year ago
+ansible.sample  Update main.yml 2 months ago
+chrome  Chrome install app banner   a year ago
+css Removing inline clear="all" 10 hours ago
+docs    Bump    a day ago
+external    upgrade mention-client-php to pass webmention.rocks tests   9 days ago
+gfx Block folder access 10 months ago
+js  Checking if known is set    2 months ago
+schemas Fix MySQL schema entry value to match update date   2 months ago
+statics Link to documentation when there's a db error   a year ago
+templates   Modernized AMP boilerplate  10 hours ago
+warmup  Soft deprecation of PHP 5.4; Using stronger warning message 2 months ago
+.gitignore  .gitignore format change    2 months ago
+.htaccess   Merge pull request #1186 from physcocode/patch-3    2 months ago
+.travis.yml fscking space vs tabs   2 months ago
+CONTRIBUTORS.md a simple URL change a year ago
+HARASSMENT-POLICY.md    Further changes to readies etc  2 years ago
+ISSUE_TEMPLATE  Issue and pull request templates    2 months ago
+LICENSE Further changes to readies etc  2 years ago
+PULL_REQUEST_TEMPLATE   Issue and pull request templates    2 months ago
+README.md   Completed licensing information for included libs   2 months ago
+Vagrantfile.sample  Renaming the vagrantfile and unusable to sample 11 months ago
+docs-mkdocs.yml Plugin index    10 months ago
+htaccess.dist   Merge pull request #1186 from physcocode/patch-3    2 months ago
+index.php   bugfix: 500 error on page not found a month ago
+known.php   Formatting fix  5 months ago
+mkdocs.yml  Shared hosting documentation    4 months ago
+nginx.conf  wrap rewrites in a location block   2 months ago
+phpunit.xml Known Plugins Tests 10 months ago
+version.known   Bump    a day ago
+ README.md
+Known: social publishing for groups and individuals
+Known - A social publishing platform for groups and individuals</p>
+
+<p>Installation Build Status</p>
+
+<p>One-click Known sites</p>
+
+<p>A fully-managed hosted service is provided at https://withknown.com/. It is always kept up to date with the latest version of Known.</p>
+
+<p>Exclusive web hosting sponsor:</p>
+
+<p>DreamHost</p>
+
+<p>We've tested DreamHost's hosting platform and highly recommend it for supporting your Known site.</p>
+
+<p>Installing</p>
+
+<p>Known is under active development and requires PHP 5.4+ with selected extensions, together with a supported database backend.</p>
+
+<p>If you are installing Known for use on your own website, we HIGHLY recommend using the installable packages from https://withknown.com/opensource. Installation will be much easier!</p>
+
+<p>You can also opt to check out the bleeding edge code from the git repository: https://github.com/idno/Known</p>
+
+<p>Detailed installation instructions: http://docs.withknown.com/en/latest/install/index.html</p>
+
+<p>Support us</p>
+
+<p>Star us on GitHub
+Like us on alternativeto.net
+Contribute
+Get support</p>
+
+<p>Try the open source mailing list: https://groups.google.com/forum/#!forum/known-dev
+Commercial support is available: https://withknown.com/services
+Community links</p>
+
+<p>Learn more and sign up to get updates: https://withknown.com
+Full project documentation: http://docs.withknown.com/
+Join the development mailing list: https://groups.google.com/forum/#!forum/known-dev
+Join the IRC channel: #knownchat on Freenode
+For details on contributing to the Known project, please read CONTRIBUTORS.md.</p>
+
+<p>Copyright and License</p>
+
+<p>Except for included third-party projects, Known is (c) Known, Inc.</p>
+
+<p>Unless otherwise stated, Known is licensed under the Apache Software License 2.0. See LICENSE for more information.</p>
+
+<p>Known logos are (c) Known, Inc. Permission from Known, Inc is required to use the Known name or logo as part of any project, product, service, domain or company name, except as included in official themes distributed by Known.</p>
+
+<p>Logos of external services are (c) their respective owners. All rights reserved.</p>
+
+<p>Third party libraries are licensed separately.</p>
+
+<p>Known also contains</p>
+
+<p>Twitter Bootstrap, which is distributed under the Apache 2.0 license. Source: https://github.com/twitter/bootstrap
+jQuery, which is distributed under the MIT License. Source: https://github.com/jquery/jquery
+Portions of Symfony, which is distributed under the MIT license.
+ClassLoader. Source: https://github.com/symfony/ClassLoader
+EventDispatcher. Source: https://github.com/symfony/EventDispatcher
+HttpFoundation. Source: https://github.com/symfony/HttpFoundation
+ToroPHP, which is distributed under the MIT License. Source: https://github.com/anandkunal/ToroPHP/
+Anthony Ferrara's PHP 5.5 password API shim, which is distributed under the MIT license. Source: https://github.com/ircmaxell/password_compat
+Font Awesome, which is distributed under the Open Font License, version 1.1: http://fortawesome.github.io/Font-Awesome/
+Fontello, which is distributed under the MIT License, for generating open source webfont. Source: https://github.com/fontello/fontello
+Steve Clay's AutoP, which is distributed under the MIT License. Source: https://code.google.com/p/mrclay/
+Aaron Parecki's Webmention Client, which is distributed under the Apache 2.0 license. Source: https://github.com/aaronpk/mention-client
+Barnaby Walters's Microformats 2 Parser, which is distributed under the MIT License. Source: https://github.com/indieweb/php-mf2
+Webignition URL libraries, which are distributed under the MIT license.
+Absolute URL deriver. Source: https://github.com/webignition/absolute-url-deriver
+URL. Source: https://github.com/webignition/url
+FitVids.js, which is distributed under the WTFPL License. Source: http://fitvidsjs.com/
+Leaflet.js, which is distributed under the BSD 2-Clause License. Source: http://leafletjs.com/
+H5f HTML5 Form shim, which is distributed under the MIT License. Source: https://github.com/ryanseddon/H5F
+SwiftMailer, which is distributed under the MIT License. Source: https://github.com/swiftmailer/swiftmailer
+Antwort, an email template which is distributed under the MIT License. Source: https://github.com/internations/antwort
+Mention.js, a Bootstrap user at-mention library, which is distributed under the MIT License. Source: https://github.com/jakiestfu/Mention.js
+MediaElement.js, a cross-browser media player, which is distributed under the MIT License. Source: https://github.com/johndyer/mediaelement
+Simplepie, a feed parser, which is distributed under the BSD 3-Clause License. Source: https://github.com/simplepie/simplepie/
+Bootstrap Toggle, which is distributed under the MIT License. Source: http://www.bootstraptoggle.com/
+TinyMCE, a rich text editor, which is distributed under the LGPL License. Source: https://github.com/tinymce/tinymce
+The Paypal Bootstrap Accessibility Plugin, which is distributed under the BSD 3-Clause License. Source: https://github.com/paypal/bootstrap-accessibility-plugin
+HTMLPurifier, which is distributed under the LGPL License. Source: http://htmlpurifier.org
+Wavesurfer, which is distrubuted under a Creative Commons Attribution 3.0 Unported License. Source: https://github.com/katspaugh/wavesurfer.js
+Status API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Contact Help</p>
+                </div>
+            </div>
+        </div>
+    </div><!-- .entry-content -->
+    
+</article><!-- #post-## -->                    </main><!-- .site-main -->
+                </div><!-- .content-area -->
+
+
+                <aside id="secondary" class="sidebar widget-area" role="complementary">
+                    <section class="widget widget_text">
+                        <h2 class="widget-title">About</h2>
+                        <div class="textwidget"><p>Proudly powered by rockerfella, a databaseless blogging platform.</p>
+                        </div>
+                    </section>
+                    
+                    <section id="search" class="widget widget_search">
+                        <form role="search" class="search-form">
+                        <label>
+                            <span class="screen-reader-text">Search for:</span>
+                            <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="search" title="Search for:" />
+                        </label>
+                        <button type="submit" class="search-submit"><span class="screen-reader-text">Search</span></button>
+                        </form>
+                    </section>    
+                    
+                    <section id="recent-posts" class="widget widget_recent_entries">        
+                        <h2 class="widget-title">Recent Posts</h2>
+                        <ul><li><a href="http://localhost/rockerfella/2016/04/thengakolaurl">thengakola is the title of this post</a></li></ul>                    </section>
+                    
+                    
+                    
+                    <section id="archives" class="widget widget_archive">
+                    <h2 class="widget-title">Archives</h2>        
+                        <ul class="archivegroup"><li class="expanded"><a href="javascript:void(0)" class="toggle" onclick="                    if (this.parentNode.className.indexOf('expanded') > -1){this.parentNode.className = 'collapsed';this.innerHTML = '&#9658;';} else {this.parentNode.className = 'expanded';this.innerHTML = '&#9660;';}">&#9660;</a> <a href="http://localhost/rockerfella/archive/2016">2016</a> <span class="count">(1)</span><ul class="month"><li class="item"><a href="http://localhost/rockerfella/archive/2016-04">April</a> <span class="count">(1)</span></li></ul></li></ul>                    </section>
+                    
+                    <section id="category" class="widget widget_category">
+                    <h2 class="widget-title">Category</h2>        
+                        <ul><li><a href="http://localhost/rockerfella/category/uncategorized">Uncategorized</a></li></ul>                    </section>
+                    
+                    <section id="popular-tags" class="widget widget_popular_tags">
+                    <h2 class="widget-title">Popular Tags</h2>
+                                                <ul>
+                                                    <li><a class="more-link" href="http://localhost/rockerfella/tag/nonsense">nonsense (1)</a></li>
+                                                                        </ul>
+                    </section>
+                    
+                </aside><!-- .sidebar .widget-area -->
+
+            </div><!-- .site-content -->
+
+            <footer id="colophon" class="site-footer" role="contentinfo">
+                <nav class="main-navigation" role="navigation" aria-label="Footer Primary Menu">
+                    <div class="menu-main-container">
+                        <ul class="nav primary-menu"><li class="item first"><a href="http://localhost/rockerfella/">Home</a></li><li class="item last active"><a href="http://localhost/rockerfella/home">Home</a></li></ul>                    </div>
+                </nav><!-- .main-navigation -->
+                <nav aria-label="Footer Social Links Menu" role="navigation" class="social-navigation">
+                    <div class="menu-social-links-container">
+                    <ul class="social-links-menu" id="menu-social-links">
+                        <li><a href="https://twitter.com"><span class="screen-reader-text">Twitter</span></a></li>
+                        <li><a href="https://www.facebook.com"><span class="screen-reader-text">Facebook</span></a></li>
+                        <li><a href="https://plus.google.com"><span class="screen-reader-text">Google+</span></a></li>
+                        <li><a href=""><span class="screen-reader-text">GitHub</span></a></li>
+                    </ul>
+                    </div>                
+                </nav>
+                <div class="site-info">
+                    <span class="site-title"><a href="http://localhost/rockerfella/" rel="home">rockerfella</a></span>
+                    <span class="copyright"><p>(c) Your name.</p><p>Proudly powered by <a href="http://www.rockerfella.com" target="_blank">rockerfella</a></p></span>
+                </div><!-- .site-info -->
+            </footer><!-- .site-footer -->
+        </div><!-- .site-inner -->
+    </div><!-- .site -->
+
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="http://localhost/rockerfella/themes/twentysixteen/js/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="http://localhost/rockerfella/themes/twentysixteen/js/jquery.js"></script>
+    <script type="text/javascript" src="http://localhost/rockerfella/themes/twentysixteen/js/jquery-migrate.js"></script>
+    <script type="text/javascript" src="http://localhost/rockerfella/themes/twentysixteen/js/skip-link-focus-fix.js"></script>
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="http://localhost/rockerfella/themes/twentysixteen/js/functions.js"></script>
+    </body>
+</html>
